@@ -38,13 +38,6 @@ This project presents a comprehensive analysis of dengue patient data collected 
 - Age group segmentation and outcome mapping
 - Area-wise and housing-type breakdown
 - KPI dashboard: Total Patients, Positive Cases, Positive Rate
-- Visualizations (bar charts, heatmaps, pie charts) [to be added]
+- Visualizations (bar charts, Column Charts ,pie charts)
 
-## 🛠️ Tools & Technologies
-
-- Excel for data cleaning and dashboarding
-- Python (Pandas, Matplotlib, Seaborn) for deeper analysis [optional]
-- GitHub for version control and collaboration
-
-## 📁 Folder Structure
 
